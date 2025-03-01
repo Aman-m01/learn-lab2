@@ -1,8 +1,8 @@
-## React Routing Project
+## `React Routing Project`
 
 - This project is designed to help understand routing in React using React Router. It demonstrates how to set up and manage routes in a React application, including dynamic routing, nested routes, and navigation.
 
-## Features
+## `Features`
 
 - React Router setup
 - Navigation using Link and NavLink
@@ -11,7 +11,7 @@
 - Redirects and error handling
 - Custom 404 page
 
-## images
+## `images`
 
 <p align="center">
   <img src="./public/home.png" width="45%" />
